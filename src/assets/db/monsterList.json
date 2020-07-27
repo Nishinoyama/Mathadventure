@@ -1,0 +1,8 @@
+[
+  { "id": 1, "name": "mono", "hp": 100 },
+  { "id": 2, "name": "di", "hp": 200 },
+  { "id": 3, "name": "tri", "hp": 300 },
+  { "id": 4, "name": "tetra", "hp": 400 },
+  { "id": 5, "name": "penta", "hp": 500 },
+  { "id": 6, "name": "hexa", "hp": 600 }
+]
